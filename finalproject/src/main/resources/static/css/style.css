@@ -1,0 +1,35 @@
+.carousel-item img {
+  max-width: 100%;
+  max-height: 400px;
+}
+
+.carousel {
+  margin: 0 auto; /* set left and right margins to auto */
+  width: 80%; /* set the width of the carousel */
+}
+
+.navbar navbar-expand-lg bg-body-tertiary {
+  background-color: coral;
+}
+
+
+
+.section-headline {
+	font-family: 'Times New Roman', Times, serif;
+	font-size:24px;
+	color: #fff;
+	margin:auto;
+	text-align:center;
+	margin-top: 90px;
+	
+	
+	
+}
+
+
+.section-headline span {
+background-color: #231F20;
+	padding: 5px 22px;
+	
+}
+
